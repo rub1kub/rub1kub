@@ -36,19 +36,27 @@ class Dmitry:
 | 🦙 | [LAMA](https://github.com/rub1kub/LAMA) | AI-powered local business competitor analysis service |
 | 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops dashboard for AI agent fleets — sessions, crons, incidents |
 
-#### 📈 Crypto & Trading
+#### 📈 Crypto & TON
 | | Project | Description |
 |---|---|---|
 | 🧬 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary crypto trading platform — autonomous strategy discovery |
-| ⛓️ | [ton-assets](https://github.com/rub1kub/ton-assets) | TON blockchain transaction research & token lock tracking bots |
+| 🌐 | [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, resources |
+| ⛓️ | TON Bots | Transaction research bot · TX tracker bot · Token lock tracker (TON blockchain) |
 
 #### 🌐 Products & Services
 | | Project | Description |
 |---|---|---|
 | 🚀 | [zavozik.xyz](https://zavozik.xyz) | Online services: chat, file transfer, AI screen assistant, remote browser |
+| 🎮 | [hytalemonitoring.com](https://hytalemonitoring.com) | Server list & real-time monitoring platform for Hytale — 1400+ servers tracked |
 | 🤖 | [kkepik](https://github.com/rub1kub/kkepik) | Telegram bot + webapp for college — schedule delivery, FastAPI, MAX messenger |
-| 🎮 | Hytale Monitoring | Analytics & monitoring platform for Hytale game project |
 | 🧱 | [plushbrick.fun](https://plushbrick.fun) | Server infrastructure project |
+
+#### 🤖 Telegram & Discord Bots
+| | Bot | Description |
+|---|---|---|
+| 📊 | durevcoin_bot | Unofficial token price tracker for DUREV token |
+| 💬 | Discord info bot | Server info & stats via Discord API |
+| 🔔 | VK commentator | Auto-comment bot for VKontakte (archived) |
 
 ---
 
@@ -73,6 +81,8 @@ class Dmitry:
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![VK API](https://img.shields.io/badge/VK_API-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
