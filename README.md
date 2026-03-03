@@ -12,9 +12,7 @@
 
 ---
 
-### 🤖 What I do
-
-I build **autonomous AI systems** — agents that browse, trade, monitor, and act without human intervention.
+### 🤖 About me
 
 ```python
 class Dmitry:
@@ -28,21 +26,37 @@ class Dmitry:
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | What it does | Stack |
+#### 🤖 AI & Automation
+| | Project | Description |
 |---|---|---|
-| [👻 ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser for AI agents — undetectable, authenticated | Node.js, Playwright |
-| [🐍 hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous Codex account rotation — unlimited AI compute | Node.js, SQLite |
-| [🧬 evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary crypto trading bot platform | Python, CCXT |
-| [🎛️ tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops dashboard for AI agent fleets | Node.js, SSE |
-| [🤖 kkepik](https://github.com/rub1kub/kkepik) | Telegram bot + webapp for schools | JavaScript |
+| 👻 | [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser for AI agents — real Chrome, undetectable, persistent profiles |
+| 🐍 | [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous Codex account rotation — unlimited AI compute, zero downtime |
+| 🦙 | [LAMA](https://github.com/rub1kub/LAMA) | AI-powered local business competitor analysis service |
+| 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops dashboard for AI agent fleets — sessions, crons, incidents |
+
+#### 📈 Crypto & Trading
+| | Project | Description |
+|---|---|---|
+| 🧬 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary crypto trading platform — autonomous strategy discovery |
+| ⛓️ | [ton-assets](https://github.com/rub1kub/ton-assets) | TON blockchain transaction research & token lock tracking bots |
+
+#### 🌐 Products & Services
+| | Project | Description |
+|---|---|---|
+| 🚀 | [zavozik.xyz](https://zavozik.xyz) | Online services: chat, file transfer, AI screen assistant, remote browser |
+| 🤖 | [kkepik](https://github.com/rub1kub/kkepik) | Telegram bot + webapp for college — schedule delivery, FastAPI, MAX messenger |
+| 🎮 | Hytale Monitoring | Analytics & monitoring platform for Hytale game project |
+| 🧱 | [plushbrick.fun](https://plushbrick.fun) | Server infrastructure project |
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -52,13 +66,24 @@ class Dmitry:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+
+**Frameworks & APIs**
+
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![VK API](https://img.shields.io/badge/VK_API-4C75A3?style=flat-square&logo=vk&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=flat-square&logo=ton&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </div>
 
@@ -68,14 +93,18 @@ class Dmitry:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rub1kub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
 ---
 
-### 🧠 My AI Philosophy
+### 🧠 Philosophy
 
 > Started coding at age 9 in 2017. By 2022, AI became my **force multiplier** — one person shipping what used to need a whole team.
 >
