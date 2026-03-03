@@ -93,6 +93,8 @@ class Dmitry:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WOW.js](https://img.shields.io/badge/WOW.js-7C4DFF?style=flat-square)
 ![Animate.css](https://img.shields.io/badge/Animate.css-FF6B6B?style=flat-square)
+![Bukkit](https://img.shields.io/badge/Bukkit-2E8B57?style=flat-square)
+![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![VK API](https://img.shields.io/badge/VK_API-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
