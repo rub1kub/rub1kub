@@ -126,6 +126,6 @@ class Dmitry:
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer.svg" width="100%"/>
 
 
