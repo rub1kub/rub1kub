@@ -4,9 +4,9 @@
 
 <br/>
 
-[![X Follow](https://img.shields.io/twitter/follow/rub1kub?style=for-the-badge&logo=x&labelColor=000&color=00D9FF)](https://x.com/rub1kub)
-[![Telegram](https://img.shields.io/badge/Telegram-@rub1kub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rub1kub)
-[![Website](https://img.shields.io/badge/Website-rubikub.ru-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rubikub.ru)
+[![Telegram](https://img.shields.io/badge/@rub1kub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rub1kub)
+[![Telegram Channel](https://img.shields.io/badge/@rubikub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rubikub)
+[![Website](https://img.shields.io/badge/rubikub.ru-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rubikub.ru)
 
 </div>
 
@@ -19,10 +19,11 @@ I build **autonomous AI systems** — agents that browse, trade, monitor, and ac
 ```python
 class Dmitry:
     focus     = ["AI Agents", "Crypto Automation", "TON Blockchain", "Infra"]
-    stack     = ["Python", "Node.js", "JavaScript", "SQL", "Docker"]
+    stack     = ["Python", "Node.js", "JavaScript", "HTML/CSS", "SQL", "Java", "C#"]
     currently = "Building AI agent infrastructure @ OpenClaw"
     location  = "Krasnodar, Russia 🇷🇺"
-    since     = "Using AI in production since March 2022"
+    coding_since = "2017 (age 9) 👦"
+    ai_in_prod   = "since March 2022"
 ```
 
 ---
@@ -46,9 +47,12 @@ class Dmitry:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 ![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=flat-square&logo=ton&logoColor=white)
 
@@ -60,14 +64,8 @@ class Dmitry:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rub1kub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rub1kub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,9 +73,9 @@ class Dmitry:
 
 ### 🧠 My AI Philosophy
 
-> I don't just *use* AI tools — I build the infrastructure that makes AI agents autonomous.
+> Started coding at age 9 in 2017. By 2022, AI became my **force multiplier** — one person shipping what used to need a whole team.
 > 
-> Since 2022, AI is my **force multiplier**: one person shipping what used to need a whole team.
+> I don't just *use* AI tools — I build the infrastructure that makes AI agents autonomous.
 
 ---
 
