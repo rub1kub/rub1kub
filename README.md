@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dmitry+%F0%9F%91%8B;AI+%26+Crypto+Engineer;I+build+things+that+run+themselves;Automation+%7C+Agents+%7C+Infrastructure" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=I+ship+in+days+what+teams+build+in+months;AI+is+my+co-founder%2C+my+team%2C+my+tool;Full-stack+%7C+Bots+%7C+Agents+%7C+Infra+%7C+Crypto;Building+since+age+9+%E2%80%94+automating+since+2022" alt="Typing SVG" />
 
 <br/>
 
@@ -12,51 +12,52 @@
 
 ---
 
-### 🤖 About me
+### ⚡ Who I am
 
 ```python
 class Dmitry:
-    focus        = ["AI Agents", "Crypto Automation", "TON Blockchain", "Infra"]
-    stack        = ["Python", "Node.js", "JavaScript", "HTML/CSS", "SQL", "Java", "C#"]
-    currently    = "Building AI agent infrastructure @ OpenClaw"
+    role         = "Solo engineer powered by AI"
+    ships        = "in days what teams build in months"
+    coding_since = "2017 — started at age 9"
+    ai_since     = "March 2022 — AI as primary workflow"
+    stack        = ["Python", "Node.js", "JS", "HTML/CSS", "SQL", "Java", "C#"]
+    domains      = ["AI Agents", "Automation", "TON/Crypto", "Infra", "Bots"]
     location     = "Krasnodar, Russia 🇷🇺"
-    coding_since = "2017 (age 9) 👦"
-    ai_in_prod   = "since March 2022"
 ```
+
+> I use AI not as a tool — but as a **force multiplier**.
+> One person. Multiple products. Shipped and running in production.
 
 ---
 
-### 🚀 Projects
+### 🚀 Live Projects
 
-#### 🤖 AI & Automation
-| | Project | Description |
-|---|---|---|
-| 👻 | [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser for AI agents — real Chrome, undetectable, persistent profiles |
-| 🐍 | [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous Codex account rotation — unlimited AI compute, zero downtime |
-| 🦙 | [LAMA](https://github.com/rub1kub/LAMA) | AI-powered local business competitor analysis service |
-| 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops dashboard for AI agent fleets — sessions, crons, incidents |
+#### 🌐 Platforms & Products
 
-#### 📈 Crypto & TON
-| | Project | Description |
+| | Project | What it does |
 |---|---|---|
-| 🧬 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary crypto trading platform — autonomous strategy discovery |
-| 🌐 | [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, resources |
-| ⛓️ | TON Bots | Transaction research bot · TX tracker bot · Token lock tracker (TON blockchain) |
+| 🌐 | [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
+| 🎮 | [hytalemonitoring.com](https://hytalemonitoring.com) | Real-time server monitoring for Hytale — 1400+ servers, live player counts |
+| 🚀 | [zavozik.xyz](https://zavozik.xyz) | Online toolkit: file transfer, AI screen assistant, remote browser, chat |
+| 🧱 | [plushbrick.fun](https://plushbrick.fun) | Production server infrastructure |
 
-#### 🌐 Products & Services
-| | Project | Description |
-|---|---|---|
-| 🚀 | [zavozik.xyz](https://zavozik.xyz) | Online services: chat, file transfer, AI screen assistant, remote browser |
-| 🎮 | [hytalemonitoring.com](https://hytalemonitoring.com) | Server list & real-time monitoring platform for Hytale — 1400+ servers tracked |
-| 🤖 | [kkepik](https://github.com/rub1kub/kkepik) | Telegram bot + webapp for college — schedule delivery, FastAPI, MAX messenger |
-| 🧱 | [plushbrick.fun](https://plushbrick.fun) | Server infrastructure project |
+#### 🤖 Telegram Bots
 
-#### 🤖 Telegram & Discord Bots
-| | Bot | Description |
+| | Bot | What it does |
 |---|---|---|
-| 📊 | durevcoin_bot | Unofficial token price tracker for DUREV token |
-| 💬 | Discord info bot | Server info & stats via Discord API |
-| 🔔 | VK commentator | Auto-comment bot for VKontakte (archived) |
+| 🔒 | [@ton\_locks](https://t.me/ton_locks) | Tracks token lock events on TON blockchain in real time |
+| 📡 | [@ton\_activity\_bot](https://t.me/ton_activity_bot) | Monitors wallet & contract activity across TON |
+| 🔬 | [@ton\_researcher\_bot](https://t.me/ton_researcher_bot) | Deep transaction research & analysis on TON |
+| 📈 | [@pricepulse\_robot](https://t.me/pricepulse_robot) | Crypto price alerts & pulse tracker |
+
+#### 🛠️ Open Source Tools
+
+| | Project | What it does |
+|---|---|---|
+| 👻 | [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser toolkit for AI agents — real Chrome, undetectable, persistent auth |
+| 🐍 | [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous AI account rotation — unlimited compute, zero human intervention |
+| 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
+| 🧬 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
 
 ---
 
@@ -87,13 +88,13 @@ class Dmitry:
 ![VK API](https://img.shields.io/badge/VK_API-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 
-**Infra & Tools**
+**Infra & Blockchain**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=flat-square&logo=ton&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=flat-square&logo=ton&logoColor=white)
 
 </div>
 
@@ -109,16 +110,8 @@ class Dmitry:
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
----
-
-### 🧠 Philosophy
-
-> Started coding at age 9 in 2017. By 2022, AI became my **force multiplier** — one person shipping what used to need a whole team.
->
-> I don't just *use* AI tools — I build the infrastructure that makes AI agents autonomous.
 
 ---
 
