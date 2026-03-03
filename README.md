@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header.svg?v=3" width="100%"/>
 
 <div align="center">
 
@@ -126,6 +126,6 @@ class Dmitry:
 </div>
 
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer.svg?v=3" width="100%"/>
 
 
