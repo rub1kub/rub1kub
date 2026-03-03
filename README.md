@@ -4,8 +4,8 @@
 
 <br/>
 
+[![X](https://img.shields.io/badge/@rub1kub-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rub1kub)
 [![Telegram](https://img.shields.io/badge/@rub1kub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rub1kub)
-[![Telegram Channel](https://img.shields.io/badge/@rubikub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rubikub)
 [![Website](https://img.shields.io/badge/rubikub.ru-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rubikub.ru)
 
 </div>
@@ -18,10 +18,10 @@ I build **autonomous AI systems** — agents that browse, trade, monitor, and ac
 
 ```python
 class Dmitry:
-    focus     = ["AI Agents", "Crypto Automation", "TON Blockchain", "Infra"]
-    stack     = ["Python", "Node.js", "JavaScript", "HTML/CSS", "SQL", "Java", "C#"]
-    currently = "Building AI agent infrastructure @ OpenClaw"
-    location  = "Krasnodar, Russia 🇷🇺"
+    focus        = ["AI Agents", "Crypto Automation", "TON Blockchain", "Infra"]
+    stack        = ["Python", "Node.js", "JavaScript", "HTML/CSS", "SQL", "Java", "C#"]
+    currently    = "Building AI agent infrastructure @ OpenClaw"
+    location     = "Krasnodar, Russia 🇷🇺"
     coding_since = "2017 (age 9) 👦"
     ai_in_prod   = "since March 2022"
 ```
@@ -54,6 +54,10 @@ class Dmitry:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![VK API](https://img.shields.io/badge/VK_API-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=flat-square&logo=ton&logoColor=white)
 
 </div>
@@ -64,8 +68,8 @@ class Dmitry:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rub1kub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rub1kub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -74,7 +78,7 @@ class Dmitry:
 ### 🧠 My AI Philosophy
 
 > Started coding at age 9 in 2017. By 2022, AI became my **force multiplier** — one person shipping what used to need a whole team.
-> 
+>
 > I don't just *use* AI tools — I build the infrastructure that makes AI agents autonomous.
 
 ---
