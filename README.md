@@ -106,7 +106,7 @@ class Dmitry:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rub1kub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/rutil/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=rub1kub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/rutil/github-profile-trophy)
 
 </div>
 
@@ -138,3 +138,4 @@ class Dmitry:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
+
