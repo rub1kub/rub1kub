@@ -125,17 +125,7 @@ class Dmitry:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake.svg" />
-</picture>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
+
 
