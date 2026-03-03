@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Who I am
+### Who I am
 
 ```python
 class Dmitry:
@@ -32,38 +32,38 @@ class Dmitry:
 
 ---
 
-### 🚀 Live Projects
+### Live Projects
 
-#### 🌐 Platforms & Products
+#### Platforms & Products
 
 | | Project | What it does |
 |---|---|---|
-| 🌐 | [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
-| 🎮 | [hytalemonitoring.com](https://hytalemonitoring.com) | Real-time server monitoring for Hytale — 1400+ servers, live player counts |
-| 🚀 | [zavozik.xyz](https://zavozik.xyz) | Online toolkit: file transfer, AI screen assistant, remote browser, chat |
-| 🧱 | [plushbrick.fun](https://plushbrick.fun) | Production server infrastructure |
+| [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
+| [hytalemonitoring.com](https://hytalemonitoring.com) | Real-time server monitoring for Hytale — 1400+ servers, live player counts |
+| [zavozik.xyz](https://zavozik.xyz) | Online toolkit: file transfer, AI screen assistant, remote browser, chat |
+| [plushbrick.fun](https://plushbrick.fun) | Production server infrastructure |
 
-#### 🤖 Telegram Bots
+#### Telegram Bots
 
 | | Bot | What it does |
 |---|---|---|
-| 🔒 | [@ton\_locks](https://t.me/ton_locks) | Tracks token lock events on TON blockchain in real time |
-| 📡 | [@ton\_activity\_bot](https://t.me/ton_activity_bot) | Monitors wallet & contract activity across TON |
-| 🔬 | [@ton\_researcher\_bot](https://t.me/ton_researcher_bot) | Deep transaction research & analysis on TON |
-| 📈 | [@pricepulse\_robot](https://t.me/pricepulse_robot) | Crypto price alerts & pulse tracker |
+| [@ton\_locks](https://t.me/ton_locks) | Tracks token lock events on TON blockchain in real time |
+| [@ton\_activity\_bot](https://t.me/ton_activity_bot) | Monitors wallet & contract activity across TON |
+| [@ton\_researcher\_bot](https://t.me/ton_researcher_bot) | Deep transaction research & analysis on TON |
+| [@pricepulse\_robot](https://t.me/pricepulse_robot) | Crypto price alerts & pulse tracker |
 
-#### 🛠️ Open Source Tools
+#### Open Source Tools
 
 | | Project | What it does |
 |---|---|---|
-| 👻 | [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser toolkit for AI agents — real Chrome, undetectable, persistent auth |
-| 🐍 | [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous AI account rotation — unlimited compute, zero human intervention |
+| [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser toolkit for AI agents — real Chrome, undetectable, persistent auth |
+| [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous AI account rotation — unlimited compute, zero human intervention |
 | 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
-| 🧬 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
+| [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -102,7 +102,7 @@ class Dmitry:
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
 
@@ -112,7 +112,7 @@ class Dmitry:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
