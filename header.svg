@@ -1,37 +1,29 @@
 <svg width="854" height="170" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .wave1 { animation: w1 4s ease-in-out infinite; }
-      .wave2 { animation: w2 5s ease-in-out infinite; }
-      .wave3 { animation: w3 6s ease-in-out infinite; }
-      @keyframes w1 {
+      .hw1 { animation: hw1 4s ease-in-out infinite; }
+      .hw2 { animation: hw2 5s ease-in-out infinite; }
+      .hw3 { animation: hw3 6s ease-in-out infinite; }
+      @keyframes hw1 {
         0%,100% { d: path("M0,50 C120,10 280,90 427,45 C574,0 720,80 854,50 L854,0 L0,0 Z"); }
         50%      { d: path("M0,30 C150,70 300,10 427,55 C554,100 700,20 854,40 L854,0 L0,0 Z"); }
       }
-      @keyframes w2 {
+      @keyframes hw2 {
         0%,100% { d: path("M0,70 C180,30 350,110 500,60 C650,10 760,80 854,65 L854,0 L0,0 Z"); }
         50%      { d: path("M0,50 C200,90 380,20 530,75 C670,120 780,40 854,55 L854,0 L0,0 Z"); }
       }
-      @keyframes w3 {
+      @keyframes hw3 {
         0%,100% { d: path("M0,85 C100,50 250,120 427,80 C600,40 740,100 854,80 L854,0 L0,0 Z"); }
         50%      { d: path("M0,65 C130,100 300,40 427,90 C554,140 700,60 854,70 L854,0 L0,0 Z"); }
       }
     </style>
   </defs>
-
-  <!-- Animated waves (no background rect) -->
-  <path class="wave3" d="M0,85 C100,50 250,120 427,80 C600,40 740,100 854,80 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.07"/>
-  <path class="wave2" d="M0,70 C180,30 350,110 500,60 C650,10 760,80 854,65 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.10"/>
-  <path class="wave1" d="M0,50 C120,10 280,90 427,45 C574,0 720,80 854,50 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.18"/>
-
-  <!-- Name -->
-  <text x="427" y="100" font-family="Arial,sans-serif" font-size="46" font-weight="bold"
+  <path class="hw3" d="M0,85 C100,50 250,120 427,80 C600,40 740,100 854,80 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.07"/>
+  <path class="hw2" d="M0,70 C180,30 350,110 500,60 C650,10 760,80 854,65 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.10"/>
+  <path class="hw1" d="M0,50 C120,10 280,90 427,45 C574,0 720,80 854,50 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.18"/>
+  <text x="427" y="105" font-family="Arial,sans-serif" font-size="46" font-weight="bold"
         fill="white" text-anchor="middle">Dmitry Puzik</text>
-
-  <!-- Subtitle -->
-  <text x="427" y="135" font-family="Arial,sans-serif" font-size="17"
+  <text x="427" y="140" font-family="Arial,sans-serif" font-size="17"
         fill="#00D9FF" text-anchor="middle">AI &amp; Crypto Engineer · Solo builder powered by AI</text>
-
-  <!-- Accent line -->
-  <line x1="300" y1="145" x2="554" y2="145" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
+  <line x1="300" y1="150" x2="554" y2="150" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
 </svg>
