@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Dmitry%20Puzik&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Crypto%20Engineer%20%7C%20Solo%20builder%20powered%20by%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=I+ship+in+days+what+teams+build+in+months;AI+is+my+co-founder%2C+my+team%2C+my+tool;Full-stack+%7C+Bots+%7C+Agents+%7C+Infra+%7C+Crypto;Building+since+age+9+%E2%80%94+automating+since+2022" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=I+ship+in+days+what+teams+build+in+months;AI+is+my+co-founder%2C+my+team%2C+my+tool;Full-stack+%7C+Bots+%7C+Agents+%7C+Infra+%7C+Crypto;Building+since+age+9+%E2%80%94+automating+since+2022" alt="Typing SVG" />
 
 <br/>
 
@@ -100,6 +102,16 @@ class Dmitry:
 
 ---
 
+### 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rub1kub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/rutil/github-profile-trophy)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -115,8 +127,14 @@ class Dmitry:
 
 ---
 
+### 🐍 Contribution Snake
+
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=rub1kub&color=00D9FF&style=flat-square)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rub1kub/rub1kub/output/github-snake.svg" />
+</picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
