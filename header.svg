@@ -1,0 +1,35 @@
+<svg width="854" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#00D9FF"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="854" height="200" fill="url(#bg)"/>
+  
+  <!-- Wave top -->
+  <path d="M0,60 C150,20 300,100 427,60 C554,20 700,100 854,60 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.15"/>
+  <path d="M0,80 C200,40 400,120 600,70 C720,40 800,90 854,75 L854,0 L0,0 Z" fill="#00D9FF" opacity="0.08"/>
+  
+  <!-- Wave bottom -->
+  <path d="M0,140 C150,180 300,100 427,140 C554,180 700,100 854,140 L854,200 L0,200 Z" fill="#00D9FF" opacity="0.15"/>
+  <path d="M0,160 C200,120 400,180 600,145 C720,120 800,165 854,155 L854,200 L0,200 Z" fill="#00D9FF" opacity="0.08"/>
+  
+  <!-- Name -->
+  <text x="427" y="90" font-family="Arial,sans-serif" font-size="46" font-weight="bold" 
+        fill="white" text-anchor="middle" opacity="0.95">Dmitry Puzik</text>
+  
+  <!-- Subtitle -->
+  <text x="427" y="125" font-family="Arial,sans-serif" font-size="17" 
+        fill="#00D9FF" text-anchor="middle" opacity="0.9">AI &amp; Crypto Engineer · Solo builder powered by AI</text>
+        
+  <!-- Accent line -->
+  <line x1="300" y1="135" x2="554" y2="135" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
+</svg>
