@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
 ### Who I am
 
@@ -30,14 +30,14 @@ class Dmitry:
 > I use AI not as a tool — but as a **force multiplier**.
 > One person. Multiple products. Shipped and running in production.
 
----
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
 ### Live Projects
 
 #### Platforms & Products
 
-| | Project | What it does |
-|---|---|---|
+| Project | What it does |
+|---|---|
 | [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
 | [hytalemonitoring.com](https://hytalemonitoring.com) | Real-time server monitoring for Hytale — 1400+ servers, live player counts |
 | [zavozik.xyz](https://zavozik.xyz) | Online toolkit: file transfer, AI screen assistant, remote browser, chat |
@@ -45,8 +45,8 @@ class Dmitry:
 
 #### Telegram Bots
 
-| | Bot | What it does |
-|---|---|---|
+| Bot | What it does |
+|---|---|
 | [@ton\_locks](https://t.me/ton_locks) | Tracks token lock events on TON blockchain in real time |
 | [@ton\_activity\_bot](https://t.me/ton_activity_bot) | Monitors wallet & contract activity across TON |
 | [@ton\_researcher\_bot](https://t.me/ton_researcher_bot) | Deep transaction research & analysis on TON |
@@ -54,14 +54,14 @@ class Dmitry:
 
 #### Open Source Tools
 
-| | Project | What it does |
-|---|---|---|
+| Project | What it does |
+|---|---|
 | [ghost-browse](https://github.com/rub1kub/ghost-browse) | Stealth browser toolkit for AI agents — real Chrome, undetectable, persistent auth |
 | [hydra-codex](https://github.com/rub1kub/hydra-codex) | Autonomous AI account rotation — unlimited compute, zero human intervention |
-| 🎛️ | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
+| [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
 
----
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
 ### Tech Stack
 
@@ -100,7 +100,7 @@ class Dmitry:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
 ### Trophies
 
@@ -110,7 +110,7 @@ class Dmitry:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
 ### GitHub Stats
 
@@ -125,7 +125,4 @@ class Dmitry:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-
 <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer.svg?v=3" width="100%"/>
-
-
