@@ -1,0 +1,14 @@
+<svg width="854" height="100" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#0969DA" opacity="0.08">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,65 C100,30 250,90 427,60 C600,30 740,85 854,65 L854,100 L0,100 Z;M0,45 C130,75 300,20 427,55 C554,90 700,35 854,50 L854,100 L0,100 Z;M0,65 C100,30 250,90 427,60 C600,30 740,85 854,65 L854,100 L0,100 Z"/>
+  </path>
+  <path fill="#0969DA" opacity="0.12">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,55 C180,95 350,15 500,65 C650,110 760,30 854,55 L854,100 L0,100 Z;M0,35 C200,5 380,85 530,40 C670,0 780,70 854,45 L854,100 L0,100 Z;M0,55 C180,95 350,15 500,65 C650,110 760,30 854,55 L854,100 L0,100 Z"/>
+  </path>
+  <path fill="#0969DA" opacity="0.20">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M0,40 C120,80 280,10 427,55 C574,100 720,20 854,50 L854,100 L0,100 Z;M0,60 C150,20 300,90 427,45 C554,0 700,80 854,60 L854,100 L0,100 Z;M0,40 C120,80 280,10 427,55 C574,100 720,20 854,50 L854,100 L0,100 Z"/>
+  </path>
+</svg>
