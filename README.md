@@ -111,29 +111,6 @@ class Dmitry:
 
 <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
 
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=rub1kub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/rutil/github-profile-trophy)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rub1kub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rub1kub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rub1kub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-dark.svg?v=4" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-light.svg?v=4" />
