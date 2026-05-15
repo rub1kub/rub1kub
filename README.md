@@ -1,22 +1,22 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-light.svg?v=4" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-dark.svg?v=4" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/header-dark.svg?v=5" width="100%"/>
 </picture>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=I+ship+in+days+what+teams+build+in+months;AI+is+my+co-founder%2C+my+team%2C+my+tool;Full-stack+%7C+Bots+%7C+Agents+%7C+Infra+%7C+Crypto;Building+since+age+9+%E2%80%94+automating+since+2022" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=D4A87F&center=true&vCenter=true&width=700&lines=I+ship+in+days+what+teams+build+in+months;AI+is+my+co-founder%2C+my+team%2C+my+tool;Full-stack+%7C+Bots+%7C+Agents+%7C+Infra+%7C+Crypto;Building+since+age+9+%E2%80%94+automating+since+2022" alt="Typing SVG" />
 
 <br/>
 
 [![X](https://img.shields.io/badge/@rub1kub-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rub1kub)
 [![Telegram](https://img.shields.io/badge/@rub1kub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rub1kub)
-[![Website](https://img.shields.io/badge/rubikub.ru-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rubikub.ru)
+[![Website](https://img.shields.io/badge/rubikub.ru-D4A87F?style=for-the-badge&logo=firefox&logoColor=white)](https://rubikub.ru)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=5" width="100%"/>
 
 ### Who I am
 
@@ -34,7 +34,7 @@ class Dmitry:
 > I use AI not as a tool — but as a **force multiplier**.
 > One person. Multiple products. Shipped and running in production.
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=5" width="100%"/>
 
 ### Live Projects
 
@@ -65,7 +65,7 @@ class Dmitry:
 | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/divider.svg?v=5" width="100%"/>
 
 ### Tech Stack
 
@@ -91,8 +91,8 @@ class Dmitry:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![WOW.js](https://img.shields.io/badge/WOW.js-7C4DFF?style=flat-square)
-![Animate.css](https://img.shields.io/badge/Animate.css-FF6B6B?style=flat-square)
+![WOW.js](https://img.shields.io/badge/WOW.js-D4A87F?style=flat-square)
+![Animate.css](https://img.shields.io/badge/Animate.css-D4A87F?style=flat-square)
 [![Bukkit](https://img.shields.io/badge/Bukkit-2E8B57?style=flat-square)](https://github.com/topics/bukkit)
 [![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square)](https://github.com/SpigotMC)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -110,7 +110,7 @@ class Dmitry:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-light.svg?v=4" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-dark.svg?v=4" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/main/footer-dark.svg?v=5" width="100%"/>
 </picture>
