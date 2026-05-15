@@ -42,7 +42,7 @@ class Dmitry:
 
 | Project | What it does |
 |---|---|
-| [tonfor.pro](https://tonfor.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
+| [ton4.pro](https://ton4.pro) | Central hub for TON ecosystem — prices, signals, analytics, gift markets |
 | [hytalemonitoring.com](https://hytalemonitoring.com) | Real-time server monitoring for Hytale — 1400+ servers, live player counts |
 | [zavozik.xyz](https://zavozik.xyz) | Online toolkit: file transfer, AI screen assistant, remote browser, chat |
 | [plushbrick.fun](https://plushbrick.fun) | Production server infrastructure |
