@@ -28,7 +28,7 @@
 
   <!-- Name -->
   <text x="427" y="105" font-family="Arial,sans-serif" font-size="46" font-weight="bold"
-        fill="white" text-anchor="middle">Dmitry Puzik</text>
+        fill="#F5F7FA" text-anchor="middle">Dmitry Puzik</text>
 
   <!-- Subtitle -->
   <text x="427" y="140" font-family="Arial,sans-serif" font-size="17"
