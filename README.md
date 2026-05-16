@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/header-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-light.svg" />
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-dark.svg" width="100%"/>
 </picture>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%"/>
 
 ### Who I am
 
@@ -34,7 +34,7 @@ class Dmitry:
 > I use AI not as a tool — but as a **force multiplier**.
 > One person. Multiple products. Shipped and running in production.
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%"/>
 
 ### Live Projects
 
@@ -65,7 +65,7 @@ class Dmitry:
 | [tima-ops-dashboard](https://github.com/rub1kub/tima-ops-dashboard) | Ops command center for AI agent fleets |
 | [evo-trade-lab](https://github.com/rub1kub/evo-trade-lab) | Evolutionary trading platform — autonomous strategy discovery via genetic algorithms |
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%"/>
 
 ### Tech Stack
 
@@ -110,7 +110,7 @@ class Dmitry:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/footer-light.svg" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e10de5d429801b7e05ae270da2a80f7e3951669/footer-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg" />
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg" width="100%"/>
 </picture>
