@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/header-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4a9d5ee54e0f7115f3725defa952681417d0dd72/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4a9d5ee54e0f7115f3725defa952681417d0dd72/header-light.svg" />
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4a9d5ee54e0f7115f3725defa952681417d0dd72/header-dark.svg" width="100%"/>
 </picture>
 
 <div align="center">
