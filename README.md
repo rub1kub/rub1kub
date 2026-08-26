@@ -14,9 +14,9 @@
 
 ### Profile
 
-Software engineer focused on backend services, desktop applications, browser tooling, geospatial data pipelines, and TON smart contracts. I work across implementation, automated testing, deployment, and production operations.
+Software engineer working on backend services, desktop software, geospatial data pipelines, community platforms, and TON smart contracts. My repositories include deployed products, release builds, automated tests, and operating documentation.
 
-**Core stack:** Python, TypeScript, JavaScript/Node.js, React, FastAPI, Playwright, Docker, Linux, Nginx, SQLite, Tolk, TON.
+**Core stack:** Python, TypeScript, JavaScript/Node.js, React, FastAPI, Electron, PostgreSQL, Redis, Playwright, Docker, Linux, Tolk, TON.
 
 <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%" alt="" />
 
@@ -25,11 +25,11 @@ Software engineer focused on backend services, desktop applications, browser too
 | Project | Engineering scope |
 |---|---|
 | [radar-russia-map](https://github.com/rub1kub/radar-russia-map) · [Live](https://tihoenebo.com) | Geospatial pipeline that ingests public feeds, resolves locations, fuses sources, and serves a React/OpenLayers map through FastAPI and WebSocket. |
+| [LOOP](https://github.com/rub1kub/loop) · [Live](https://app.tonsuite.org) | Open-source Telegram Mini App with React/FastAPI, PostgreSQL/Redis, BANK and DUEL contracts in Tolk, automated tests, and verifiable TON mainnet deployments. |
 | [Codex Remote](https://github.com/rub1kub/codex-remote-console) · [Releases](https://github.com/rub1kub/codex-remote-console/releases) | Cross-platform Electron client for remote Codex CLI sessions over SSH, with project tooling, release builds, and integration tests. |
+| [KKEPIK](https://github.com/rub1kub/kkepik) | College scheduling system with PDF/XLSX parsers, targeted Telegram updates, MAX ingestion, FastAPI/Flask services, and regression tests. |
 | [KROT](https://github.com/rub1kub/where-are-we-barista) | Offline terrain-aided navigation prototype using radio-altimeter NMEA data and Copernicus elevation maps, with TypeScript, C++, and Rust implementations. |
-| [TG BTC Cat](https://github.com/rub1kub/tgBTCat) | TON governance protocol with Tolk smart contracts, Acton tests, TypeScript wrappers, a TON Connect console, and verifiable mainnet transactions. |
-| [Routeva](https://github.com/rub1kub/amnezia-split-extension) · [Releases](https://github.com/rub1kub/amnezia-split-extension/releases) | Chrome and Brave split-routing extension with a self-hosted proxy gateway, automated tests, release packaging, and privacy documentation. |
-| [TestFlight Slot Grabber](https://github.com/rub1kub/testflight-slot-grabber) | macOS automation experiment combining a Python state classifier, Swift Accessibility helper, mock end-to-end flow, CI, and redacted audit logs. |
+| [CyberKotleta](https://github.com/rub1kub/cyberkotleta-social) · [Live](https://cyberkotleta.fun) · [Bot](https://github.com/rub1kub/CyberKotleta) | Community platform with free-form boards, media, Discord OAuth, and a React/Node deployment; the companion Python bot manages roles, activity metrics, reputation, and Minecraft RCON. |
 
 ### Production systems
 
