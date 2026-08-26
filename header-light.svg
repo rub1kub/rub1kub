@@ -12,6 +12,6 @@
       values="M0,50 C120,10 280,90 427,45 C574,0 720,80 854,50 L854,0 L0,0 Z;M0,30 C150,70 300,10 427,55 C554,100 700,20 854,40 L854,0 L0,0 Z;M0,50 C120,10 280,90 427,45 C574,0 720,80 854,50 L854,0 L0,0 Z"/>
   </path>
   <text x="427" y="105" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#1F2328" text-anchor="middle">Dmitry Puzik</text>
-  <text x="427" y="140" font-family="Arial,sans-serif" font-size="17" fill="#232B3F" text-anchor="middle">AI &amp; Crypto Engineer · Solo builder powered by AI</text>
+  <text x="427" y="140" font-family="Arial,sans-serif" font-size="17" fill="#232B3F" text-anchor="middle">Software Engineer · Python, TypeScript, Automation &amp; TON</text>
   <line x1="300" y1="150" x2="554" y2="150" stroke="#232B3F" stroke-width="1" opacity="0.45"/>
 </svg>

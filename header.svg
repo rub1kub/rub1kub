@@ -29,7 +29,7 @@
 
   <!-- Subtitle -->
   <text x="427" y="140" font-family="Arial,sans-serif" font-size="17"
-        fill="#E0B890" text-anchor="middle">AI &amp; Crypto Engineer · Solo builder powered by AI</text>
+        fill="#E0B890" text-anchor="middle">Software Engineer · Python, TypeScript, Automation &amp; TON</text>
 
   <!-- Accent line -->
   <line x1="300" y1="150" x2="554" y2="150" stroke="#E0B890" stroke-width="1.5" opacity="0.70"/>
