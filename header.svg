@@ -1,7 +1,4 @@
 <svg width="854" height="170" xmlns="http://www.w3.org/2000/svg">
-  <!-- Dark background -->
-  <rect width="854" height="170" fill="#0D1117"/>
-
   <!-- Wave 3 (slowest, most transparent) -->
   <path fill="#D3C0AE" opacity="0.14">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
