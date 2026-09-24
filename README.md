@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg" width="100%" alt="Dmitry Puzik — Software Engineer" />
-</picture>
+<!-- Follow GitHub's selected theme even when it differs from the system theme. -->
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg#gh-dark-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
+</a>
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-light.svg#gh-light-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
+</a>
 
 <p align="center">
   <a href="https://rub1kub.ru">Website</a> ·
@@ -49,8 +51,9 @@ Software engineer working on backend services, desktop software, geospatial data
 - [ton4.pro](https://ton4.pro) — TON market data and analytics.
 - [Hytale Monitoring](https://hytalemonitoring.com) — live server and player-count monitoring.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg" />
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg" width="100%" alt="" />
-</picture>
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg#gh-dark-mode-only" width="100%" alt="" />
+</a>
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg#gh-light-mode-only" width="100%" alt="" />
+</a>
