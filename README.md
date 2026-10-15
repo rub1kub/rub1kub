@@ -1,9 +1,9 @@
 <!-- Follow GitHub's selected theme even when it differs from the system theme. -->
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-dark.svg#gh-dark-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-dark.svg#gh-dark-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
 </a>
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-light.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/eb6427d2f79d78b9f7d991f5218bc306dd36522b/header-light.svg#gh-light-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-light.svg#gh-light-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
 </a>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://x.com/rub1kub">X</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/divider.svg" width="100%" alt="" />
 
 ### Profile
 
@@ -20,7 +20,7 @@ Software engineer working on backend services, desktop software, geospatial data
 
 **Core stack:** Python, TypeScript, JavaScript/Node.js, React, FastAPI, Electron, PostgreSQL, Redis, Playwright, Docker, Linux, Tolk, TON.
 
-<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/divider.svg" width="100%" alt="" />
 
 ### Selected engineering work
 
@@ -51,9 +51,9 @@ Software engineer working on backend services, desktop software, geospatial data
 - [ton4.pro](https://ton4.pro) — TON market data and analytics.
 - [Hytale Monitoring](https://hytalemonitoring.com) — live server and player-count monitoring.
 
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-dark.svg#gh-dark-mode-only" width="100%" alt="" />
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/footer-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/footer-dark.svg#gh-dark-mode-only" width="100%" alt="" />
 </a>
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/4e73affc36e100873cb9d52ce2d211ce936de670/footer-light.svg#gh-light-mode-only" width="100%" alt="" />
+<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/footer-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/footer-light.svg#gh-light-mode-only" width="100%" alt="" />
 </a>
