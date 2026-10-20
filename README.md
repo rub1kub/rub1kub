@@ -1,10 +1,8 @@
-<!-- Follow GitHub's selected theme even when it differs from the system theme. -->
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-dark.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-dark.svg#gh-dark-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
-</a>
-<a href="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-light.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/rub1kub/rub1kub/f52e6ca5e00d6a19695850e285bd6545f9e394ed/header-light.svg#gh-light-mode-only" width="100%" alt="Dmitry Puzik — Software Engineer" />
-</a>
+<!-- Text inherits the selected GitHub theme instead of fixed SVG colors. -->
+<img src="https://raw.githubusercontent.com/rub1kub/rub1kub/5c02d0f17f4c264dad03fc11cfdc3daa8718743c/header-waves.svg" width="100%" alt="" />
+
+<h1 align="center">Dmitry Puzik</h1>
+<p align="center">Software Engineer · Python, TypeScript, Automation &amp; TON</p>
 
 <p align="center">
   <a href="https://rub1kub.ru">Website</a> ·
